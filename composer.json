@@ -1,0 +1,14 @@
+{
+  "name": "yreynoso/328/hello",
+  "description": "My first MVC F3 Project",
+  "license": "open source",
+  "authors": [
+    {
+      "name": "yasairareynoso",
+      "email": "reynoso.yasaira@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
